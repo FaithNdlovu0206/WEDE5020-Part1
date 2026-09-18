@@ -4,7 +4,7 @@
 Name: Faith Ndlovu  
 Student No: ST10528024  
 Course: WEDE5020  
-GitHub: FaithNdlovu0206/WEDE5020-Part1  
+GitHub: FaithNdlovu0206/WEDE5020-TAR 
 
 ## Project Overview
 Tembisa Animal Rescue (TAR) was founded in 2018 to reduce animal suffering in Tembisa. This website aims to increase adoptions, recruit volunteers, and raise awareness.
